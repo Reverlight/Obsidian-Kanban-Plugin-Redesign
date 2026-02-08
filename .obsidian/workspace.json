@@ -1,0 +1,458 @@
+{
+  "main": {
+    "id": "383fcafea6ee2684",
+    "type": "split",
+    "children": [
+      {
+        "id": "99dc77ad6dccfb5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80fe7de63a5693ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character"
+            }
+          },
+          {
+            "id": "ff4b0695210d1f80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Grind/Quests/2026-02-04 Gym.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-04 Gym"
+            }
+          },
+          {
+            "id": "43113ae7402c8822",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "b2568af2b6d40ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weekly Review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weekly Review"
+            }
+          },
+          {
+            "id": "68f9ba10d54db768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Grind/Quests/2026-02-02 Daily kekw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-02 Daily kekw"
+            }
+          },
+          {
+            "id": "eb3dc9a6f7cd61bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-02-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-03"
+            }
+          },
+          {
+            "id": "ef557a3302b81d1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-02-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-09"
+            }
+          },
+          {
+            "id": "52f4b4b9591a7a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-02-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-09"
+            }
+          },
+          {
+            "id": "1a1f64f734a8cd2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Grind/Quests/2026-02-07 Speaking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-07 Speaking"
+            }
+          },
+          {
+            "id": "3f5dc30027d40fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Grind/Quests/2026-02-07 Speaking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-07 Speaking"
+            }
+          },
+          {
+            "id": "601833821c2911cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character"
+            }
+          },
+          {
+            "id": "1476360b35650791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character"
+            }
+          },
+          {
+            "id": "835002abf8137424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Grind/Missions/RAG Integration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAG Integration"
+            }
+          },
+          {
+            "id": "0d1f201b7bde81cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Grind/Missions/RAG Integration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAG Integration"
+            }
+          },
+          {
+            "id": "d59c4f7700b72352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character"
+            }
+          },
+          {
+            "id": "632d294043e43339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Grind/Missions/RAG Integration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAG Integration"
+            }
+          },
+          {
+            "id": "936f4100ad383c0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Grind/Missions/RAG Integration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAG Integration"
+            }
+          },
+          {
+            "id": "449bbdcee879cf38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-02-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-09"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "956efd9605a58c8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfafcc2c1080f2f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d9c16947e5eb7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0c9de0f47110c68c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b466662f01146a58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d57bfe34aca35446",
+    "type": "split",
+    "children": [
+      {
+        "id": "da40f52f1c349a30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "185ac57754ad770d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Character.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Character"
+            }
+          },
+          {
+            "id": "5fbe5502bacb40a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Character.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Character"
+            }
+          },
+          {
+            "id": "76f1fc2c865cec1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "be7966f1ffa4009b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5e9d2b441abdac6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Grind/Untitled Kanban.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled Kanban"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false,
+      "full-calendar-remastered:Open Full Calendar": false,
+      "full-calendar-remastered:Tasks backlog": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "43113ae7402c8822",
+  "lastOpenFiles": [
+    "Kanban Demo.md",
+    "Character 1.md",
+    "Daily Grind/Quests/2026-02-08 Speaking 1 1 1 1.md",
+    "Character.md",
+    "Daily Grind/Quests/2026-02-08 Speaking 1 1 1.md",
+    "Daily Grind/Quests/2026-02-07 Speaking 1 1.md",
+    "Daily Grind/Quests/2026-02-07 Speaking 1.md",
+    "Daily Grind/Quests/2026-02-07 Speaking.md",
+    "head-empty-fox-girl-ezgif.com-crop.webp",
+    "Daily Grind/Untitled Kanban.md",
+    "Daily Grind/Missions/RAG Integration.md",
+    "README.md",
+    "Daily Grind/Quests/2026-02-04 Gym.md",
+    "Daily Grind/Missions/2026-02-02 this.md",
+    "Daily Note Template.md",
+    "Daily Grind/Missions",
+    "Welcome.md",
+    "2026-02-09.md",
+    "Daily Grind/Quests/2026-02-07 Daily 6.md",
+    "Daily Grind/Quests/2026-02-02 Daily kekw.md",
+    "Daily Grind/Quests/2026-02-02 Event.md",
+    "2026-02-03.md",
+    "Daily Grind/Quests/2026-02-04 Test.md",
+    "Daily Grind/Quests/Daily 4 2026-02-07.md",
+    "Daily Grind/Quests/Daily 3.md",
+    "Daily Grind/Quests/Daily.md",
+    "Daily Grind/Quests/2026-02-02 nice.md",
+    "Weekly Review.md",
+    "Daily Grind/Quests",
+    "Daily Grind"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "name": "New Local Calendar",
+      "color": "#3b82f6",
+      "id": "local_1",
+      "directory": "Daily Grind/Quests"
+    },
+    {
+      "type": "local",
+      "name": "New Local Calendar",
+      "color": "#22c55e",
+      "id": "local_2",
+      "directory": "Daily Grind/Missions"
+    },
+    {
+      "type": "tasks",
+      "name": "Obsidian Tasks",
+      "color": "#ef4444",
+      "id": "tasks_1"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false,
+  "clickToCreateEventFromMonthView": true,
+  "displayTimezone": "Europe/Kiev",
+  "lastSystemTimezone": "Europe/Kiev",
+  "enableAdvancedCategorization": false,
+  "chrono_analyser_config": null,
+  "categorySettings": [],
+  "useCustomGoogleClient": false,
+  "googleClientId": "",
+  "googleClientSecret": "",
+  "googleAccounts": [],
+  "businessHours": {
+    "enabled": false,
+    "daysOfWeek": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "startTime": "09:00",
+    "endTime": "17:00"
+  },
+  "enableBackgroundEvents": true,
+  "enableReminders": true,
+  "enableDefaultReminder": true,
+  "defaultReminderMinutes": 10,
+  "workspaces": [],
+  "activeWorkspace": null,
+  "showEventInStatusBar": false,
+  "slotMinTime": "00:00",
+  "slotMaxTime": "24:00",
+  "weekends": true,
+  "hiddenDays": [],
+  "dayMaxEvents": false,
+  "currentVersion": "0.12.6"
+}

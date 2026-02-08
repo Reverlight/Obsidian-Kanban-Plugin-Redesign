@@ -1,0 +1,23 @@
+{
+  "pluginList": [
+    "YouFoundJK/plugin-full-calendar"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "YouFoundJK/plugin-full-calendar",
+      "version": ""
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}
