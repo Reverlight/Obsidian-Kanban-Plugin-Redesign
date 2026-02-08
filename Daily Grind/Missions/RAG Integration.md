@@ -1,7 +1,7 @@
 
 ## Not Done
 
-- [ ] Vector Database Setup 📅 2026-02-05
+- [ ] Vector Database Setup 📅 2026-02-08
   status:: not-done
   xp:: 30
   coins:: 20
@@ -44,7 +44,7 @@
 
 ## Done
 
-- [x] Ingest Dev Server Setup 📅 2026-02-05
+- [x] Ingest Dev Server Setup 📅 2026-02-08 ✅ 2026-02-08
   status:: done
   xp:: 30
   coins:: 20
